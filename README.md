@@ -57,4 +57,8 @@ India.
 
 ### ✍️ Blog Posts :
 
-<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [How to enable auto-configuration for custom spring-boot module](https://blogs.jsbisht.com/spring/2021/06/30/Spring-boot-auto-configuration-tutorial)
+- [Azure Resource Owner Password Credentials flow](https://blogs.jsbisht.com/azure/2020/09/30/Azure-Resource-Owner-Password-Credentials-flow)
+- [Spring security using OAuth2 with Microsoft AzureAD B2C](https://blogs.jsbisht.com/spring/2020/09/12/Spring-security-using-OAuth2-with-AzureAD-B2C)
+<!-- BLOG-POST-LIST:END -->
